@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Viktor
 - 👀 I’m interested in... well programming
 - 🌱 I’m currently learning Java
-- 📫 How to reach me: You don't. Imma find you
-- ⚡ Fun fact:  Turtles can breathe from both ends.
+- 📫 How to reach me: You don't...(email I suppose is an option)
+- ⚡ Fun fact: Cats have 32 muscles in each ear
